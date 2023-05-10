@@ -6,7 +6,7 @@
 <p align="center">Code for the paper "Federated Learning for Preventing Eavesdropping"</p>
 
 ## Content
-- [Voice Privacy App]([https://github.com/akibzaman/Xpert/blob/main/README.md#algorithm-recommender-model](https://github.com/AAMasud040/Voice-Privacy-using-Federated-Learning.git))
+- [Voice Privacy App]()
 - [Code Structure]()
 
 ### Voice Privacy App
